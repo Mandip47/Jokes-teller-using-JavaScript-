@@ -51,7 +51,7 @@ const jokes = [
   "Why did the bicycle fall over? Because it was two-tired.",
   "What did the janitor say when he jumped out of the closet? 'Supplies!'",
   "Why do seagulls fly over the sea? Because if they flew over the bay, they'd be bagels.",
-  "Why was the computer cold? It left its Windows open. "
+  "Why was the computer cold? It left its Windows open.."
 ];
 let Ran_joke = Math.floor(Math.random() * jokes.length);
 
